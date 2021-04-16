@@ -2,7 +2,7 @@
 A Interactive Dashboard for COVID-19 Vaccination using simple but useful MS Excel.
 Tika Utsav which was conducted in India between 11 to 14 April against COVID-19, its Results are Demonstrated here.
 Here is a perfect Analysis and Dashboard for Analysing tons of Data and Figures, It help to analyze which area needs improvement.
-A Exel Developer Tool is used in preparing this Dashboard. Screenshots :
+A Excel Developer Tool is used in preparing this Dashboard. Screenshots :
 
 ![image](https://user-images.githubusercontent.com/73196470/115013653-f5401000-9ece-11eb-9507-1f1b513fdeac.png)
 
