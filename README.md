@@ -12,6 +12,7 @@ Data Filteration and Coditional Formating for Quickly Understanding Meaning
 Final Data taken from Combined Data as a Data source for Chart
 ![image](https://user-images.githubusercontent.com/73196470/115013758-143ea200-9ecf-11eb-9c5d-1575ee5e26b7.png)
 
-Link to Linkedin Post : 
+Link to Linkedin Post : https://www.linkedin.com/posts/krishna-nit_covid19vaccination-dashboard-interactive-activity-6788794468263886848-yUIx
 <br>Excited to Connect with you : https://www.linkedin.com/in/krishna-nit/ <br>
 Star Repo if you Found it Intresting :)
+Thank you!
